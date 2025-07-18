@@ -1,0 +1,32 @@
+/* Movie Code styling */
+.movie-code {
+    display: inline-block;
+    background: #f0f0f0;
+    padding: 4px 8px;
+    margin: 2px;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    color: #333;
+    border: 1px solid #ddd;
+}
+
+.movie-code:hover {
+    background: #e0e0e0;
+    border-color: #999;
+}
+
+/* Original Name styling */
+.title.fa-file-text {
+    color: #666;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.title.fa-code {
+    color: #666;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 5px;
+} 

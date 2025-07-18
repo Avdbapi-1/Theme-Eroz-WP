@@ -1,0 +1,669 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Project-Id-Version: Eroz\n"
+"POT-Creation-Date: 2020-05-23 13:20-0500\n"
+"PO-Revision-Date: 2020-05-23 13:25-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:1
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: 404.php:1
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Может быть, попробуйте поискать?"
+
+#: admin/partials/eroz-admin-display.php:1
+#, fuzzy
+msgid "Add theme license"
+msgstr "Добавить лицензию на тему"
+
+#: admin/partials/eroz-admin-display.php:1
+msgid "Enter License Key"
+msgstr "Введите номер лицензионного ключа"
+
+#: admin/partials/eroz-admin-display.php:1
+msgid "Enter your license key here"
+msgstr "Введите свой лицензионный ключ"
+
+#: admin/partials/eroz-admin-display.php:1
+#, fuzzy
+msgid "Connect with License Key"
+msgstr "Подключиться к лицензионному ключу"
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+#, fuzzy
+msgid "Post Reported"
+msgstr "Опубликовано сообщение"
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+#, fuzzy
+msgid "These are all reports, please consider solving them."
+msgstr "Это все отчеты, пожалуйста, подумайте над их решением."
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+msgid "Post"
+msgstr "Запись"
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+msgid "Reason"
+msgstr "Причина"
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+msgid "Action"
+msgstr "Действие"
+
+#: admin/partials/eroz-report-post_page_admin.php:1
+#: includes/class-eroz-function-public.php:1
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/partials/eroz_function_metabox.php:1
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: admin/partials/eroz_function_metabox.php:1
+msgid "Video"
+msgstr "Видео"
+
+#: admin/partials/eroz_function_metabox.php:1
+#, fuzzy
+msgid "Video Optional"
+msgstr "Видео Дополнительно"
+
+#: admin/partials/eroz_function_metabox.php:1 single.php:1
+#, fuzzy
+msgid "Description"
+msgstr "Описание"
+
+#: admin/partials/eroz_function_metabox.php:1
+msgid "Download Link"
+msgstr "Ссылка для скачивания"
+
+#: admin/partials/eroz_function_metabox.php:1
+#, fuzzy
+msgid "Video Trailer"
+msgstr "Видео трейлер"
+
+#: category.php:1 search.php:1 tag.php:1 taxonomy.php:1
+msgid "No articles"
+msgstr "Нет статей"
+
+#: comments.php:1
+msgid "Comments"
+msgstr "Комментарии"
+
+#: includes/class-eroz-function-public.php:1
+#: includes/function-eroz-customizer.php:49
+msgid "Home"
+msgstr "Главная"
+
+#: includes/class-eroz-function-public.php:1
+msgid "Header Menu"
+msgstr "Меню заголовка"
+
+#: includes/class-eroz-function-public.php:1
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: includes/class-eroz-function-public.php:1
+msgid "Main Widget"
+msgstr "Главный виджет"
+
+#: includes/class-eroz-function-public.php:1
+msgid "Featured Image"
+msgstr "Популярные изображения"
+
+#: includes/class-eroz-function-public.php:1
+msgid "Upload image"
+msgstr "Загрузить изображение"
+
+#: includes/class-toro-permalinks.php:1
+msgid "Movies"
+msgstr "Фильмы"
+
+#: includes/class-toro-permalinks.php:1
+#, fuzzy
+msgid "ToroThemes - Permalink Settings"
+msgstr "Торо-Темы - Настройки Пермалинки"
+
+#. Theme Name of the plugin/theme
+#: includes/function-eroz-customizer.php:43
+#, fuzzy
+msgid "Eroz"
+msgstr "Eroz"
+
+#: includes/function-eroz-customizer.php:63
+#, fuzzy
+msgid "Text SEO Home"
+msgstr "Текстовый SEO дома"
+
+#: includes/function-eroz-customizer.php:76
+#, fuzzy
+msgid "Title latest video"
+msgstr "Название последнего видео"
+
+#: includes/function-eroz-customizer.php:83
+#, fuzzy
+msgid "Categories Recomended"
+msgstr "Категории Рекомендуемые"
+
+#: includes/function-eroz-customizer.php:94
+#, fuzzy
+msgid "Title categories recomended"
+msgstr "Исправленные категории заголовков"
+
+#: includes/function-eroz-customizer.php:105
+msgid "Number of items"
+msgstr "Количество элементов"
+
+#: includes/function-eroz-customizer.php:116
+#: includes/function-eroz-widgets.php:1
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: includes/function-eroz-customizer.php:132
+#, fuzzy
+msgid "URL page categories"
+msgstr "категории страниц URL"
+
+#: includes/function-eroz-customizer.php:139
+msgid "Metabox"
+msgstr "Metabox"
+
+#: includes/function-eroz-customizer.php:151
+#, fuzzy
+msgid "Metabox video"
+msgstr "Метабокс видео"
+
+#: includes/function-eroz-customizer.php:163
+#, fuzzy
+msgid "Metabox duration"
+msgstr "Продолжительность метабокса"
+
+#: includes/function-eroz-customizer.php:175
+#, fuzzy
+msgid "Metabox Video Trailer"
+msgstr "Метабоксный видео-трейлер"
+
+#: includes/function-eroz-customizer.php:182
+msgid "Cookies"
+msgstr "Куки"
+
+#: includes/function-eroz-customizer.php:193
+#, fuzzy
+msgid "Enabled Cookies"
+msgstr "Включенные Cookie-файлы"
+
+#: includes/function-eroz-customizer.php:204
+#, fuzzy
+msgid "URL page cookies"
+msgstr "куки-файлы URL-адреса страниц"
+
+#: includes/function-eroz-customizer.php:215
+#, fuzzy
+msgid "Title page cookies"
+msgstr "Cookie-файлы заглавных страниц"
+
+#: includes/function-eroz-customizer.php:226
+#, fuzzy
+msgid "Text cookies announcement"
+msgstr "Объявление текстовых куки-файлов"
+
+#: includes/function-eroz-customizer.php:233
+msgid "Pornstars"
+msgstr "Порнозвезды"
+
+#: includes/function-eroz-customizer.php:245
+#, fuzzy
+msgid "Posts per page (Pornstar Page)"
+msgstr "Сообщения на страницу (Pornstar Page)"
+
+#: includes/function-eroz-customizer.php:252
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: includes/function-eroz-customizer.php:263
+msgid "Position"
+msgstr "Позиция"
+
+#: includes/function-eroz-customizer.php:268
+msgid "Left"
+msgstr "Слева"
+
+#: includes/function-eroz-customizer.php:269
+msgid "Right"
+msgstr "Справа"
+
+#: includes/function-eroz-customizer.php:270
+msgid "None"
+msgstr "Нет"
+
+#: includes/function-eroz-customizer.php:285
+msgid "Footer Text"
+msgstr "Текст футера"
+
+#: includes/function-eroz-customizer.php:291
+msgid "ADS"
+msgstr "ОБЪЯВЛЕНИЯ"
+
+#: includes/function-eroz-customizer.php:297
+#, fuzzy
+msgid "ADS Home"
+msgstr "дом САД"
+
+#: includes/function-eroz-customizer.php:309
+#, fuzzy
+msgid "ADS Home Loop"
+msgstr "Цикл ADS для дома"
+
+#: includes/function-eroz-customizer.php:321
+#, fuzzy
+msgid "ADS Home After Loop"
+msgstr "ADS дома после петли"
+
+#: includes/function-eroz-customizer.php:328
+#, fuzzy
+msgid "ADS Single"
+msgstr "сингл ADS"
+
+#: includes/function-eroz-customizer.php:340
+#, fuzzy
+msgid "ADS Single Top"
+msgstr "ADS Single Top"
+
+#: includes/function-eroz-customizer.php:352
+#, fuzzy
+msgid "ADS Single over player link"
+msgstr "ADS Однопользовательская ссылка на игрока"
+
+#: includes/function-eroz-customizer.php:364
+#, fuzzy
+msgid "ADS Single into player"
+msgstr "ADS Сингл в игрока"
+
+#: includes/function-eroz-customizer.php:376
+#, fuzzy
+msgid "ADS Single on description"
+msgstr "ADS Одиночное описание"
+
+#: includes/function-eroz-customizer.php:388
+#, fuzzy
+msgid "ADS Single Video 1"
+msgstr "ADS одиночное видео 1"
+
+#: includes/function-eroz-customizer.php:399
+#, fuzzy
+msgid "ADS Single Video 2"
+msgstr "ADS одиночное видео 2"
+
+#: includes/function-eroz-customizer.php:406
+msgid "Social"
+msgstr "Социальные сети"
+
+#: includes/function-eroz-customizer.php:415
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/function-eroz-customizer.php:426
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/function-eroz-customizer.php:437
+msgid "Google"
+msgstr "Google"
+
+#: includes/function-eroz-customizer.php:448
+msgid "instagram"
+msgstr "instagram"
+
+#: includes/function-eroz-customizer.php:459
+msgid "Youtube"
+msgstr "Youtube"
+
+#: includes/function-eroz-customizer.php:466
+msgid "Colors"
+msgstr "Цвета"
+
+#: includes/function-eroz-customizer.php:475
+msgid "Body Background"
+msgstr "Фон Body"
+
+#: includes/function-eroz-customizer.php:486
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: includes/function-eroz-customizer.php:497
+msgid "Links Color"
+msgstr "Цвет ссылок"
+
+#: includes/function-eroz-customizer.php:508
+msgid "Border Color"
+msgstr "Цвет границы"
+
+#: includes/function-eroz-customizer.php:519
+msgid "Main Color"
+msgstr "Основной цвет"
+
+#: includes/function-eroz-customizer.php:530
+msgid "Secondary Color"
+msgstr "Вторичный цвет"
+
+#: includes/function-eroz-customizer.php:541
+msgid "Third Color"
+msgstr "Третий цвет"
+
+#: includes/function-eroz-customizer.php:552
+#, fuzzy
+msgid "Inputs/Textarea - Background Color"
+msgstr "Входы/Текстура - Цвет фона"
+
+#: includes/function-eroz-customizer.php:563
+#, fuzzy
+msgid "Buttons:Hover - Text Color"
+msgstr "Кнопки:Гувер - Цвет текста"
+
+#: includes/function-eroz-customizer.php:574
+#, fuzzy
+msgid "Buttons:Hover - Background Color"
+msgstr "Кнопки:Навешивание - Цвет фона"
+
+#: includes/function-eroz-do-action.php:1 includes/function-eroz-widgets.php:1
+msgid "View All"
+msgstr "Посмотреть все"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "Create menu"
+msgstr "Создать меню"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Like"
+msgstr "Нравится"
+
+#: includes/function-eroz-do-action.php:1
+msgid "votes"
+msgstr "голосов"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Share"
+msgstr "Поделиться"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "Large Player"
+msgstr "Большой игрок"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Report"
+msgstr "Отчет"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Embed"
+msgstr "Вставить"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "Underage"
+msgstr "Подросток"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "Not Porn"
+msgstr "Не Порно"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Spam"
+msgstr "Спам"
+
+#: includes/function-eroz-do-action.php:1
+msgid "Other"
+msgstr "Другое"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "Give us more details..."
+msgstr "Дайте нам больше деталей..."
+
+#: includes/function-eroz-do-action.php:1
+msgid "Related Videos"
+msgstr "Похожие видео"
+
+#: includes/function-eroz-do-action.php:1
+#, fuzzy
+msgid "PLAY OR DOWNLOAD THIS VIDEO ON HD"
+msgstr "ВОСПРОИЗВЕСТИ ИЛИ СКАЧАТЬ ЭТО ВИДЕО НА HD"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/function-eroz-widgets.php:1
+#, fuzzy
+msgid "Number of terms: "
+msgstr "Количество терминов"
+
+#: includes/function-eroz-widgets.php:1
+#, fuzzy
+msgid "Show terms of:"
+msgstr "Покажи условия:"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Category"
+msgstr "Категория"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Tag"
+msgstr "Тег"
+
+#: includes/function-eroz-widgets.php:1
+#, fuzzy
+msgid "Link view more:"
+msgstr "Больше ссылок:"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Latest"
+msgstr "Последние"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Views (Require WP-PostViews)"
+msgstr "Просмотры (требуют WP-PostViews)"
+
+#: includes/function-eroz-widgets.php:1
+msgid "Random"
+msgstr "Случайно"
+
+#: includes/function-eroz-widgets.php:1
+#, fuzzy
+msgid "Number of post: "
+msgstr "Номер должности"
+
+#: includes/torothemes/theme-updater.php:23
+msgid "Theme License"
+msgstr "Лицензия темы"
+
+#: includes/torothemes/theme-updater.php:24
+msgid "Enter your theme license key."
+msgstr "Введите номер лицензионного ключа."
+
+#: includes/torothemes/theme-updater.php:25
+msgid "License Key"
+msgstr "Лицензионный ключ"
+
+#: includes/torothemes/theme-updater.php:26
+msgid "License Action"
+msgstr "Действие лицензии"
+
+#: includes/torothemes/theme-updater.php:27
+msgid "Deactivate License"
+msgstr "Деактивировать лицензию"
+
+#: includes/torothemes/theme-updater.php:28
+msgid "Activate License"
+msgstr "Активировать лицензию"
+
+#: includes/torothemes/theme-updater.php:29
+#: includes/torothemes/theme-updater.php:41
+msgid "License status is unknown."
+msgstr "Статус лицензии неизвестен."
+
+#: includes/torothemes/theme-updater.php:30
+msgid "Renew?"
+msgstr "Обновить?"
+
+#: includes/torothemes/theme-updater.php:31
+msgid "unlimited"
+msgstr "неограниченный"
+
+#: includes/torothemes/theme-updater.php:32
+msgid "License key is active."
+msgstr "Лицензионный ключ активен."
+
+#: includes/torothemes/theme-updater.php:33
+#, php-format
+msgid "Expires %s."
+msgstr "Истекает %s."
+
+#: includes/torothemes/theme-updater.php:34
+#, php-format
+msgid "You have %1$s / %2$s sites activated."
+msgstr "У вас есть активированных %1$s / %2$s  сайтов."
+
+#: includes/torothemes/theme-updater.php:35
+#, php-format
+msgid "License key expired %s."
+msgstr "Срок действия ключа лицензии истекает %s."
+
+#: includes/torothemes/theme-updater.php:36
+msgid "License key has expired."
+msgstr "Срок действия лицензионного ключа истек."
+
+#: includes/torothemes/theme-updater.php:37
+msgid "License keys do not match."
+msgstr "Лицензионные ключи не совпадают."
+
+#: includes/torothemes/theme-updater.php:38
+msgid "License is inactive."
+msgstr "Лицензия находится в неактивном состоянии."
+
+#: includes/torothemes/theme-updater.php:39
+msgid "License key is disabled."
+msgstr "Лицензионный ключ отключен."
+
+#: includes/torothemes/theme-updater.php:40
+msgid "Site is inactive."
+msgstr "Сайт неактивен."
+
+#: includes/torothemes/theme-updater.php:42
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+"Обновление этой темы приведет к  потере всех настроек, которые вы сделали. "
+"\"Отменить\", чтобы остановить, «OK», чтобы обновить."
+
+#: includes/torothemes/theme-updater.php:43
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" "
+"title=\"%4s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</"
+"a>."
+msgstr ""
+"Доступна <strong>%1$s версия %2$s</strong>. <a href=\"%3$s\" class=\"thickbox"
+"\" title=\"%4s\">Посмотреть что нового</a> или <a href=\"%5$s\"%6$s>обновить "
+"сейчас</a>."
+
+#: index.php:1
+#, fuzzy
+msgid "There are no articles"
+msgstr "Нет никаких статей"
+
+#: page.php:1
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: pages/page-like.php:1 pages/page-views.php:1
+#, fuzzy
+msgid "No hay articulos"
+msgstr "Нет сена опорно-двигательного аппарата"
+
+#: search.php:1
+#, fuzzy
+msgid "Searched term"
+msgstr "Искомый срок"
+
+#: searchform.php:1
+msgid "Search..."
+msgstr "Поиск..."
+
+#: single.php:1
+msgid "Option"
+msgstr "Опции"
+
+#: single.php:1
+#, fuzzy
+msgid "Close and play"
+msgstr "Закройся и играй"
+
+#: single.php:1
+msgid "Categories"
+msgstr "Категории"
+
+#: single.php:1
+msgid "Tags"
+msgstr "Теги"
+
+#: single.php:1
+msgid "Pornstar"
+msgstr "Порнозвезда"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "https://torothemes.com/demo/eroz/"
+msgstr "https://torothemes.com/demo/eroz/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"eroz is a theme specially created for adult content (tube websites), "
+"optimized in code and SEO for more profit."
+msgstr ""
+"eroz - тема, специально созданная для взрослого контента (сайтов-трубок), "
+"оптимизированная в коде и SEO для большей прибыли."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Toro"
+msgstr "Торо"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://torothemes.com"
+msgstr "http://torothemes.com"
+
+#. Template Name of the plugin/theme
+msgid "Categories Page"
+msgstr "Страница категорий"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+msgid "Tags Page"
+msgstr "Теги Страница"
